@@ -1,4 +1,4 @@
-# Quarto reveal.js uni.lu template
+# Quarto reveal.js ELIXIR template
 
 
 ![Build](https://github.com/ginolhac/unilu-theme/actions/workflows/publish.yml/badge.svg)
@@ -19,14 +19,9 @@ quarto use template rolandkrause/elixir-theme
 quarto install extension rolandkrause/elixir-theme
 ```
 
-## Logo clickable
+## Logo clickable is disabled
 
-Following discussion on [quarto-cli](https://github.com/quarto-dev/quarto-cli/discussions/3082#discussioncomment-7058099), logo on each slide can point to the desired URL.
-
-Set it in the YAML header with `logo_url: "https://fasterthanli.me"`
-
-If not set, it points to https://quarto.org
-
+Check for Aurélien's original unilu-theme for a clickable logo.
 
 ## Output
 
