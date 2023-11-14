@@ -7,13 +7,12 @@ institute: Rworkshop
 author: "Aurélien Ginolhac"
 logo_url: "https://github.com/ginolhac/unilu-theme"
 format:
-  unilu-theme-revealjs:
+  elixir-theme-revealjs:
     output-file: index.html
 from: markdown+emoji
 title-slide-attributes: 
-  data-background-image: https://tidyverse.tidyverse.org/logo.png
-  data-background-position: "50% 10%"
-  data-background-size: "150px"
+  data-background-image: elixir_slide_background.png
+  data-background-position: "-50px -100px"
 execute: 
   echo: true
 ---
